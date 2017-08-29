@@ -1,0 +1,20 @@
+h1 {
+  color: #ff0000;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+li {
+  color: green;
+}
+
+h4 {
+  color: purple;
+}
+
+body {
+  background: url(http://cpsresources.com/wp-content/uploads/2014/12/9436-Matte-Woodgrain-Matte.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
